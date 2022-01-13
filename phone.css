@@ -1,0 +1,40 @@
+/* home */
+#home{
+    height: 820px;
+}
+/*  */
+/* #home p{
+    font-size: 1.5rem;
+} */
+.headings{
+    font-size: 1.7rem;
+}
+/* about */
+#pic img{
+    width: 240px;
+    height: 240px;
+}
+.vaibhav{
+    width: 265px;
+    height: 265px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+/* my skills */
+.gallery img{
+    width: 310px;
+    height: 295px;
+    margin: 8px;
+}
+
+/* contact */
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 20%;
+}
